@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-component.svg)](https://www.npmjs.com/package/ai-component)
 [![npm downloads](https://img.shields.io/npm/dm/ai-component.svg)](https://www.npmjs.com/package/ai-component)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-component)](https://github.com/lxgic-studios/ai-component/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 AI-powered React component generator. Describe what you want in plain English, get production-ready code.
 
