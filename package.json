@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "Generate React components from plain English descriptions",
   "main": "dist/index.js",
+  "types": "./dist/index.d.ts",
   "bin": {
     "ai-component": "dist/cli.js"
   },
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "scripts": {
     "build": "tsc"
   },
@@ -32,7 +37,27 @@
     "ui",
     "zero-config"
   ],
+  "author": "LXGIC Studios",
   "license": "MIT",
+  "homepage": "https://github.com/LXGIC-Studios/ai-component#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LXGIC-Studios/ai-component"
+  },
+  "bugs": {
+    "url": "https://github.com/LXGIC-Studios/ai-component/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
   "dependencies": {
     "commander": "^12.1.0",
     "openai": "^4.73.0",
@@ -41,10 +66,5 @@
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
-  },
-  "author": "LXGIC Studios",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-component"
   }
 }
