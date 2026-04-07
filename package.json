@@ -1,5 +1,5 @@
 {
-  "name": "ai-component",
+  "name": "@lxgicstudios/ai-component",
   "version": "1.0.0",
   "description": "Generate React components from plain English descriptions",
   "main": "dist/index.js",
