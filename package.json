@@ -15,34 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "automation",
     "claude",
     "cli",
     "component",
+    "developer-productivity",
     "developer-tools",
+    "discoverability",
     "frontend",
-    "generator",
-    "gpt",
-    "jsx",
-    "llm",
-    "openai",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
     "react",
-    "tailwind",
-    "tsx",
-    "typescript",
-    "ui",
-    "zero-config"
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-component#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-component"
+    "url": "https://github.com/LXGIC-Studios/ai-component"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-component/issues"
